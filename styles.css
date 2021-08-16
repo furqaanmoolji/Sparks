@@ -1,0 +1,37 @@
+.Footer{
+  background-color: black;
+  position: relative;
+  padding: 100px;
+}
+.picture{
+  width: 100%;
+  position: relative;
+  text-align: center;
+}
+body{
+  background-color: black;
+}
+.picture2{
+  width: 100%;
+  position: relative;
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+.africa{
+  text-align: center;
+  width: 100%;
+}
+.syria{
+  text-align: center;
+  width: 90%;
+}
+.poverty{
+  text-align: center;
+  width: 100%;
+}
+.black{
+
+  width: 100%;
+}
